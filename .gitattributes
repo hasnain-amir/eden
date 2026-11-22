@@ -1,0 +1,28 @@
+# Source files
+*.py text
+*.ts text
+*.tsx text
+*.js text
+*.jsx text
+*.css text
+*.html text
+*.sh text
+
+# Configuration and documentation
+*.md text
+*.json text
+*.yaml text
+*.yml text
+*.toml text
+*.svg text
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
